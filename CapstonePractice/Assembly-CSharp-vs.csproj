@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Fuckkkk.cs" />
+     <Compile Include="Assets\OtherTest.cs" />
      <Compile Include="Assets\RyanFrank.cs" />
      <Compile Include="Assets\RyanSnelgrove.cs" />
      <Compile Include="Assets\Test.cs" />
